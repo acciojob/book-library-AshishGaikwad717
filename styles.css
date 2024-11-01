@@ -13,7 +13,7 @@ img{
 h1{
 	text-align:center;
 }
-author{
+p{
 	color:#777777;
 }
 button{
@@ -22,4 +22,5 @@ button{
 	background-color:#2ecc71;
 	border:none;
 	margin-bottom:15px;
+	border-radius:8px;
 }
