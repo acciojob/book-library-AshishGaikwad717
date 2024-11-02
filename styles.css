@@ -16,11 +16,12 @@ h1{
 p{
 	color:#777777;
 }
-button{
+.price{
 	width:100%;
 	padding:10px;
 	background-color:#2ecc71;
 	border:none;
 	margin-bottom:15px;
 	border-radius:8px;
+	text-align:center;
 }
